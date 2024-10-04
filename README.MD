@@ -3,6 +3,9 @@
 ### App Link
 [WanderLust](https://wanderlust-js6c.onrender.com/listings)
 
+> I used a free cloud service to deploy this project, so when you open the link, sometimes it takes 20-25 seconds to load. I apologize for the delay. Once the link opens, it works perfectly.
+
+
 ### Technologies Used
 - HTML
 - CSS
